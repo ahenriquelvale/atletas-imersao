@@ -33,6 +33,6 @@ let dados = [
         titulo: "Tatiana Weston-Webb",
         descricao: "Tatiana Weston-Webb é a primeira surfista brasileira a conquistar um título mundial da WSL. Sua versatilidade e força a colocaram entre as principais atletas do surf feminino mundial. Foi medalha de prata nas olimpíadas de Paris 2024",
         link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb",
-        tags: "surf surfe surfing wsl feminina"
+        tags: "surf surfe surfing wsl"
     }
 ];
